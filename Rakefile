@@ -10,9 +10,10 @@ Hoe.plugin :git
 Hoe.plugin :bundler
 Hoe.plugin :gemspec
 
-Hoe.spec('csspool') do
+Hoe.spec('csspool-st') do
   developer('Aaron Patterson', 'aaronp@rubyforge.org')
   developer('John Barnette', 'jbarnette@rubyforge.org')
+  developer('stereobooster', 'stereobooster@gmail.com')
   self.readme_file   = 'README.rdoc'
   self.history_file  = 'CHANGELOG.rdoc'
   self.extra_rdoc_files  = FileList['*.rdoc']

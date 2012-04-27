@@ -1,11 +1,12 @@
 = CSSPool
 
+* https://github.com/stereobooster/csspool
 * http://csspool.rubyforge.org
 * http://github.com/tenderlove/csspool
 
 == DESCRIPTION:
 
-CSSPool is a CSS parser.  CSSPool provides a SAC interface for parsing CSS as
+Fork of CSSPool. CSSPool is a CSS parser.  CSSPool provides a SAC interface for parsing CSS as
 well as a document oriented interface for parsing CSS.
 
 == FEATURES/PROBLEMS:
