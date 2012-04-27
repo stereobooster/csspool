@@ -1,3 +1,16 @@
+== 3.1.0
+
+* New Features
+
+  * Support IE safe hacks
+  * Support pseudo-elements
+  * Support css3 media queries
+
+* Bugfixes
+
+  * Support whitespace after properties
+  * Support missing semicolon after last declaration
+
 == 3.0.0
 
 * New Features

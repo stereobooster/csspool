@@ -27,7 +27,10 @@ lib/csspool/selectors/additional.rb
 lib/csspool/selectors/attribute.rb
 lib/csspool/selectors/class.rb
 lib/csspool/selectors/id.rb
+lib/csspool/selectors/media_expression.rb
+lib/csspool/selectors/pseudo.rb
 lib/csspool/selectors/pseudo_class.rb
+lib/csspool/selectors/pseudo_element.rb
 lib/csspool/selectors/simple.rb
 lib/csspool/selectors/type.rb
 lib/csspool/selectors/universal.rb
